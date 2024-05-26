@@ -1,0 +1,68 @@
+.fotoShow {
+  position: sticky;
+  top: 150px;
+}
+
+.imgCastom {
+  height: 250px;
+}
+
+.cardCustom {
+  height: 700px;
+  box-shadow: 10px 15px 20px grey;
+}
+
+
+
+/* carosello swiper */
+.swiper {
+  width: 100%;
+  padding-bottom: 50px;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+
+}
+
+.staff {
+  width: 200px;
+  border-radius: 50%;
+  border: 3px solid #000000;
+  padding: 5px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.iconeStaff {
+  font-size: xx-large;
+}
+
+/* sezione categorie */
+.sectionCategory {
+  background-color: #212529;
+  box-shadow: 10px 15px 20px grey;
+}
+
+.titoloCategory {
+  text-shadow: 10px 15px 20px grey;
+}
+
+/* fine sezione categorie */
+
+.textOmbre {
+  text-shadow: 10px 15px 20px grey;
+}
+
+
+.logo{
+  width: 100px;
+  height: 80px;
+}
+
+.logoFooter{
+  width: 150px;
+  height: auto;
+}

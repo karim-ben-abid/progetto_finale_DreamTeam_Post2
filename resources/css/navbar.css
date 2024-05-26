@@ -1,0 +1,38 @@
+.navbar {
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.nav-link{
+    position: relative;
+    
+}
+.nav-link::before{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width:0%;
+    height: 3px;
+    background:#bb2d3a ;
+    transition: .5s;
+}
+
+.nav-link:hover:before{
+  width: 100%;
+}
+
+.transition{
+    transition: .9s;
+  }
+
+  @media screen and (min-width: 700px){
+  .nav-scrolled {
+    margin: 5vh 16.5vw;
+    background-color: black !important;
+    backdrop-filter: blur(10px);
+    border: 1px solid ;
+    border-radius: 10px;
+  }
+}

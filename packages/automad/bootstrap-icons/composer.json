@@ -1,0 +1,22 @@
+{
+    "name": "automad/bootstrap-icons",
+    "description": "This package let's you easily embed Bootstrap icons within your Automad templates",
+    "type": "automad-package",
+    "keywords": [
+        "extension",
+        "icons"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marc Anton Dahmen",
+            "homepage": "https://marcdahmen.de"
+        }
+    ],
+    "require": {
+        "automad/package-installer": "^1.1 || dev-master"
+    },
+    "autoload": {
+        "classmap": [""]
+    }
+}

@@ -1,0 +1,7 @@
+@import 'bootstrap';
+@import 'bootstrap-icons';
+@import './hero.css';
+@import './navbar.css';
+@import './message.css';
+@import './form.css';
+@import './style.css';

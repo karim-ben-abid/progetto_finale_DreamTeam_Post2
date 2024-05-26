@@ -1,0 +1,13 @@
+{
+  "name": "automad-bootstrap-icons",
+  "version": "1.0.0",
+  "description": "This package let's you easily embed [Bootstrap Icons](https://icons.getbootstrap.com) within your Automad templates.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcantondahmen/automad-bootstrap-icons.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-icons": "^1.2.2"
+  }
+}
